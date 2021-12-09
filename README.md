@@ -16,6 +16,5 @@ You can click the Preview link to take a look at your changes.
   - :pencil2: [Publications](https://asfarah.github.io/HomePage/recherche.publication.html)
   - 📝 [Teaching](https://asfarah.github.io/HomePage/enseignement.html)
 
-[![Edge Network](https://github.com/khuyentran1401/pages/blob/master/all_people_with_edges.html)](https://github.com/khuyentran1401/pages/blob/master/all_people_with_edges.html)
 
 
