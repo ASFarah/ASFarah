@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   - :office: [LinkedIn](https://www.linkedin.com/in/llllll/)
 - 📫 Learn more about me on:  
   - 🏠 [Homepage](https://asfarah.github.io/HomePage/)
-  - 🔭  [Homepage](https://scholar.google.com/citations?hl=en&user=GFaRMiIAAAAJ&view_op=list_works&sortby=pubdate)
+  - 🔭  [Scholar](https://scholar.google.com/citations?hl=en&user=GFaRMiIAAAAJ&view_op=list_works&sortby=pubdate)
   - :bulb: [Medium](https://medium.com/@....)
   - :pencil2: [Publications](https://asfarah.github.io/HomePage/recherche.publication.html)
   - 📝 [Teaching](https://asfarah.github.io/HomePage/enseignement.html)
