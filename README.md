@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 Learn more about me on:  
   - 🏠 [Homepage](https://asfarah.github.io/HomePage/)
   - 🔭  [Scholar](https://scholar.google.com/citations?hl=en&user=GFaRMiIAAAAJ&view_op=list_works&sortby=pubdate)
-  - :bulb: [Medium](https://medium.com/@....)
+  - :bulb: [Medium](https://medium.com/@FarahAS)
   - :pencil2: [Publications](https://asfarah.github.io/HomePage/recherche.publication.html)
   - 📝 [Teaching](https://asfarah.github.io/HomePage/enseignement.html)
 
