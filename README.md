@@ -3,7 +3,7 @@
 ### Hi there. I'm Farah 👋
 
 - :zap: I do Network analysis and optimization research, Mathematical programming, and IoT-Edge-Cloud Computing AI-based management.
-- :earth_africa: I regularly share a little bit of my knowledge/research to the world through [my blogs](https://medium.com/@...) and [Homepage](https://asfarah.github.io/HomePage/).
+- :earth_africa: I regularly share a little bit of my knowledge/research to the world through [my blog](https://medium.com/@...) and [Homepage](https://asfarah.github.io/HomePage/).
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/llllll/)
 - 📫 Learn more about me on:  
