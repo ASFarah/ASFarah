@@ -1,3 +1,8 @@
+<!---
+ASFarah/ASFarah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 ### Hi there. I'm Farah 👋
 
 - :zap: I do Network analysis and optimization research, Mathematical Programming, and investigate IoT-Edge-Cloud Computing AI-based management.
@@ -10,7 +15,7 @@
   - :bulb: [Medium](https://medium.com/@....)
   - :pencil2: [Publications](https://asfarah.github.io/HomePage/recherche.publication.html)
   - 📝 [Teaching](https://asfarah.github.io/HomePage/enseignement.html)
-<!---
-ASFarah/ASFarah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Edge Network](https://github.com/khuyentran1401/pages/blob/master/all_people_with_edges.html)](https://github.com/khuyentran1401/pages/blob/master/all_people_with_edges.html)
+
+
