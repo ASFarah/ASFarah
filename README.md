@@ -6,7 +6,6 @@
 
 - 📫 Learn more about me on:  
   - :bulb: [Homepage](https://asfarah.github.io/HomePage/)
-  - :bulb: [Medium](https://medium.com/@....)
   - :pencil2: [Publications](https://asfarah.github.io/HomePage/recherche.publication.html)
   - :speaker: [Teaching](https://asfarah.github.io/HomePage/enseignement.html)
 
