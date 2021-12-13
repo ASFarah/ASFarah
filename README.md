@@ -3,7 +3,7 @@ ASFarah/ASFarah is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there. I'm Farah 👋
+### Hi there 👋 It's Farah 😃 
 
 - :zap: I do Network analysis and optimization research, Mathematical Programming, and investigate IoT-Edge-Cloud Computing AI-based management.
 - :earth_africa: I regularly share a little bit of my knowledge/research to the world through [my blog](https://medium.com/@...) and [Homepage](https://asfarah.github.io/HomePage/).
