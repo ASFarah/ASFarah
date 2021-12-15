@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
   - 📝 [Teaching](https://asfarah.github.io/HomePage/enseignement.html)
 
 
-### ▶ Check out my latest articles
+### 🔹 Check out my latest articles
 <a href="https://hal.inria.fr/hal-02313711/document"><img src="https://github.com/ASFarah/Tests/blob/master/images/ACM_CSurv.png?raw=true" alt="Recent Article 0" width = "30%"> 
  <a target="_blank" href="https://hal.archives-ouvertes.fr/hal-02108806/file/SCC_2019.pdf"><img src="https://github.com/ASFarah/Tests/blob/master/images/SCC_2019-02.png?raw=true" alt="Recent Article 1" width = "30%">
  <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-66583-2_13"><img src="https://github.com/ASFarah/Tests/blob/master/images/EPEW_2017_01.png?raw=true" alt="Recent Article 2" width = "30%">
 
     
-### ▶ Some of the created packages
+### 🔹 Some of the created packages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=SPP)](https://github.com/ASFarah/SPP) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=SourceCodes_Fog-Edge_Mangement)](https://asfarah.github.io/SourceCodes_Fog-Edge_Mangement/)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=IoT_Benchmark)](https://github.com/ASFarah/IoT_Benchmark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=Bases_de_Python)](https://github.com/ASFarah/Bases_de_Python)
