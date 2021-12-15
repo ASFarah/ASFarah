@@ -18,3 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
+### Check out my latest articles
+<a target="_blank" href="https://hal.inria.fr/hal-02313711/document"><img src="https://github.com/EssayF/Python_Basics/blob/main/An-Overview-of-Service-Placement-Problem-in-Fog-and-Edge-Computing.png?raw=true" alt="Recent Article 0" width = "600"> 
+
+ <a target="_blank" href="https://hal.archives-ouvertes.fr/hal-02108806/file/SCC_2019.pdf"><img src="https://github.com/EssayF/Python_Basics/blob/main/Service-Placement-in-Fog-Computing-Using-Constraint-Programming.png?raw=true" alt="Recent Article 1" width = "600">
+ <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-66583-2_13"><img src="https://github.com/EssayF/Python_Basics/blob/main/Analysis-of-Performance-and-Energy-Consumption-in-the-Cloud.png?raw=true" alt="Recent Article 2" width = "600">
