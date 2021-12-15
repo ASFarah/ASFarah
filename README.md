@@ -16,7 +16,12 @@ You can click the Preview link to take a look at your changes.
   - :pencil2: [Publications](https://asfarah.github.io/HomePage/recherche.publication.html)
   - 📝 [Teaching](https://asfarah.github.io/HomePage/enseignement.html)
 
+### Check out my latest articles
+<a target="_blank" href="https://hal.inria.fr/hal-02313711/document"><img src="https://github.com/EssayF/Python_Basics/blob/main/An-Overview-of-Service-Placement-Problem-in-Fog-and-Edge-Computing.png?raw=true" alt="Recent Article 0" width = "600"> 
 
+ <a target="_blank" href="https://hal.archives-ouvertes.fr/hal-02108806/file/SCC_2019.pdf"><img src="https://github.com/EssayF/Python_Basics/blob/main/Service-Placement-in-Fog-Computing-Using-Constraint-Programming.png?raw=true" alt="Recent Article 1" width = "600">
+ <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-66583-2_13"><img src="https://github.com/EssayF/Python_Basics/blob/main/Analysis-of-Performance-and-Energy-Consumption-in-the-Cloud.png?raw=true" alt="Recent Article 2" width = "600">
+    
 ### Some of the created packages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=SPP)](https://github.com/ASFarah/SPP) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=SourceCodes_Fog-Edge_Mangement)](https://asfarah.github.io/SourceCodes_Fog-Edge_Mangement/)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=IoT_Benchmark)](https://github.com/ASFarah/IoT_Benchmark)
