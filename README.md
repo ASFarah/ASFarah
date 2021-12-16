@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
     
 ### 🔹 Some of the created packages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=SPP)](https://github.com/ASFarah/SPP) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=SourceCodes_Fog-Edge_Mangement)](https://asfarah.github.io/SourceCodes_Fog-Edge_Mangement/)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=IoT_Benchmark)](https://github.com/ASFarah/IoT_Benchmark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=Bases_de_Python)](https://github.com/ASFarah/Bases_de_Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=SourceCodes_Fog-Edge_Mangement)](https://asfarah.github.io/SourceCodes_Fog-Edge_Mangement/)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=IoT_Benchmark)](https://asfarah.github.io/IoT_Benchmark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=Bases_de_Python)](https://asfarah.github.io/Bases_de_Python)
 
 
