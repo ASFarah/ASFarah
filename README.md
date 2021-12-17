@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔹 Check out my latest articles
 <a href="https://hal.inria.fr/hal-02313711/document"><img src="https://github.com/ASFarah/Tests/blob/master/images/ACM_CSurv.png?raw=true" alt="Recent Article 0" width = "30%"> 
  <a target="_blank" href="https://hal.archives-ouvertes.fr/hal-02108806/file/SCC_2019.pdf"><img src="https://github.com/ASFarah/Tests/blob/master/images/SCC_2019-02.png?raw=true" alt="Recent Article 1" width = "30%">
- <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-66583-2_13"><img src="https://github.com/ASFarah/Tests/blob/master/images/EPEW_2017_01.png?raw=true" alt="Recent Article 2" width = "30%">
+ <a target="_blank" href="https://asfarah.github.io/HomePage/recherche/EPEW_2017.pdf"><img src="https://github.com/ASFarah/Tests/blob/master/images/EPEW_2017_01.png?raw=true" alt="Recent Article 2" width = "30%">
 
     
 ### 🔹 Some of the created packages
