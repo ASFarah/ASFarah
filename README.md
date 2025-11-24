@@ -25,12 +25,12 @@ You can click the Preview link to take a look at your changes.
 >
 > [**👉 Download the full internship description (PDF)**](https://github.com/ASFarah/Open_positions/blob/main/Proposition_de_Stage__MAPE_K.pdf)
 
-### Contact
+### 📬 Contact
 
 > **Département d'Informatique**
-> ESILV - École Supérieure d'Ingénieurs Léonard de Vinci
-> 12 Avenue Léonard de Vinci, 92400 Courbevoie, France
-> 📧 farah.ait_salaht (at) devinci.fr
+> - ESILV - École Supérieure d'Ingénieurs Léonard de Vinci
+> - 12 Avenue Léonard de Vinci, 92400 Courbevoie, France
+> - 📧 farah.ait_salaht (at) devinci.fr
 
 
 ### 🔹 Check out my latest articles
