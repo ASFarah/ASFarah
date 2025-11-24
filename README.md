@@ -17,13 +17,12 @@ You can click the Preview link to take a look at your changes.
   - 📝 [Teaching](https://asfarah.github.io/HomePage/enseignement.html)
 
 ### Open Positions (2026)
->🔸 **M2 Internship Opportunity — Concurrent Autonomic Control for the Computing Continuum (Feb. 2026)**  
+>🔸 **M2 Internship Opportunity — Concurrent Autonomic Control for the Computing Continuum**  
 >**Location:** DVRC (Paris La Défense) in collaboration with Inria/AVALON (ENS Lyon)  
 >**Supervisors:** Farah Aït-Salaht (DVRC/ESILV) & Christian Perez (Inria/ ENS Lyon)
 >**Start:** February 2026
-
-📄 **Full internship description (PDF):**  
-[👉 Download the internship topic](./Proposition_de_Stage__MAPE_K.pdf)
+>📄 **Full internship description (PDF):**  
+>[👉 Download the internship topic](./Proposition_de_Stage__MAPE_K.pdf)
 
 ### 🔹 Check out my latest articles
 <a href="https://hal.inria.fr/hal-02313711/document"><img src="https://github.com/ASFarah/Tests/blob/master/images/ACM_CSurv.png?raw=true" alt="Recent Article 0" width = "30%"> 
