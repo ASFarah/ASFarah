@@ -12,10 +12,8 @@ You can click the Preview link to take a look at your changes.
 - 📫 Learn more about me on:  
   - 🏠 [Homepage](https://asfarah.github.io/HomePage/)
   - 🔭  [Scholar](https://scholar.google.com/citations?hl=en&user=GFaRMiIAAAAJ&view_op=list_works&sortby=pubdate)
-  - :bulb: [Medium](https://medium.com/@FarahAS)
-  - :pencil2: [Publications](https://asfarah.github.io/HomePage/recherche.publication.html)
-  - 📝 [Teaching](https://asfarah.github.io/HomePage/enseignement.html)
 
+ 
 ### Open Positions (2026)
 
 > [!IMPORTANT]
@@ -26,6 +24,13 @@ You can click the Preview link to take a look at your changes.
 > - **📅 Start Date:** February 2026
 >
 > [**👉 Download the full internship description (PDF)**](https://github.com/ASFarah/Open_positions/blob/main/Proposition_de_Stage__MAPE_K.pdf)
+
+### Contact
+
+> **Départament d'Informatique**
+> ESILV - Ecole Supérieure d'Ingénieurs Léonard de Vinci
+> 12 Avenue Léonard de Vinci, 92400 Courbevoie, France
+> 📧: farah.ait_salaht (at) devinci.fr
 
 
 ### 🔹 Check out my latest articles
