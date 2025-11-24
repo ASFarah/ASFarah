@@ -27,10 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Contact
 
-> **Départament d'Informatique**
-> ESILV - Ecole Supérieure d'Ingénieurs Léonard de Vinci
+> **Département d'Informatique**
+> ESILV - École Supérieure d'Ingénieurs Léonard de Vinci
 > 12 Avenue Léonard de Vinci, 92400 Courbevoie, France
-> 📧: farah.ait_salaht (at) devinci.fr
+> 📧 farah.ait_salaht (at) devinci.fr
 
 
 ### 🔹 Check out my latest articles
