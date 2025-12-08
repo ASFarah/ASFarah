@@ -6,12 +6,12 @@ You can click the Preview link to take a look at your changes.
 
 ⚡ My research lies at the intersection of Operations Research and Distributed Systems. I investigate autonomic control and optimization within Fog, Edge, and Cloud environments.
 
-🌍 You can find my publications and projects on my [Homepage](https://asfarah.github.io/index.html).
+🌍 You can find my publications and projects on my [Homepage](https://asfarah.github.io).
 
 - Connect with me on:
   - :office: [LinkedIn](https://fr.linkedin.com/in/farah-ait-salaht-641474ba)
 - 📫 Learn more about me on:  
-  - 🏠 [Homepage](https://asfarah.github.io/index.html)
+  - 🏠 [Homepage](https://asfarah.github.io)
   - 🔭  [Scholar](https://scholar.google.com/citations?hl=en&user=GFaRMiIAAAAJ&view_op=list_works&sortby=pubdate)
 
  
