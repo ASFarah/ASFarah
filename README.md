@@ -2,11 +2,12 @@
 ASFarah/ASFarah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Hi there 👋 I'm Farah.
 
-### Hi there 👋  It's Farah 😃 
+⚡ My research lies at the intersection of Operations Research and Distributed Systems. I investigate autonomic control and optimization within Fog, Edge, and Cloud environments.
 
-- :zap: I do Network analysis and optimization research, Mathematical Programming, and investigate IoT-Edge-Cloud Computing AI-based management.
-- :earth_africa: I regularly share a little bit of my knowledge/research to the world through my [Homepage](https://asfarah.github.io/HomePage/).
+🌍 You can find my publications and projects on my [Homepage](https://asfarah.github.io/HomePage/index.html).
+
 - Connect with me on:
   - :office: [LinkedIn](https://fr.linkedin.com/in/farah-ait-salaht-641474ba)
 - 📫 Learn more about me on:  
