@@ -40,9 +40,4 @@ You can click the Preview link to take a look at your changes.
  <a target="_blank" href="https://asfarah.github.io/HomePage/recherche/EPEW_2017.pdf"><img src="https://github.com/ASFarah/Tests/blob/master/images/EPEW_2017_01.png?raw=true" alt="Recent Article 2" width = "30%">
 
     
-### 🔹 Some of the created packages
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=SPP)](https://github.com/ASFarah/SPP) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=SourceCodes_Fog-Edge_Mangement)](https://asfarah.github.io/SourceCodes_Fog-Edge_Mangement/)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=IoT_Benchmark)](https://asfarah.github.io/IoT_Benchmark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asfarah&repo=Bases_de_Python)](https://asfarah.github.io/Bases_de_Python)
-
 
