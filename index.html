@@ -174,7 +174,27 @@
         }
         .card:hover { transform: translateY(-5px); box-shadow: 0 15px 30px rgba(0,0,0,0.06); }
         .card h3 { font-size: 1.15rem; margin-bottom: 15px; color: var(--text-main); font-weight: 700; }
-        .card i { color: var(--secondary); margin-right: 8px; }
+        .card h3 i { color: var(--secondary); margin-right: 8px; }
+        .card ul { list-style: none; padding: 0; margin: 0; }
+        .card ul li {
+            position: relative;
+            padding-left: 22px;
+            margin-bottom: 10px;
+            color: var(--text-muted);
+            font-size: 0.92rem;
+            line-height: 1.5;
+        }
+        .card ul li:last-child { margin-bottom: 0; }
+        .card ul li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 9px;
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: var(--gradient);
+        }
 
         /* --- Publications --- */
         .pub-item {
@@ -327,16 +347,31 @@
             </div>
             <div class="grid">
                 <div class="card">
-                    <h3><i class="fas fa-server"></i> Fog & Edge Computing</h3>
-                    <p>Optimizing service placement and replication strategies to minimize latency and energy consumption in distributed environments.</p>
+                    <h3><i class="fas fa-server"></i> Service Placement & Resource Management</h3>
+                    <ul>
+                        <li>Service placement and replication across the Cloud-Edge-IoT continuum</li>
+                        <li>Latency- and energy-aware deployment strategies</li>
+                        <li>Resource allocation in fog and edge infrastructures</li>
+                        <li>Optimization and constraint-programming approaches</li>
+                    </ul>
                 </div>
                 <div class="card">
-                    <h3><i class="fas fa-robot"></i> Autonomous Systems</h3>
-                    <p>Integrating AI innovations and heuristics to enable smart decision-making and autonomous control at the network edge.</p>
+                    <h3><i class="fas fa-robot"></i> Autonomic Control & Decision-Making AI</h3>
+                    <ul>
+                        <li>Self-adaptive systems built on the MAPE-K control loop</li>
+                        <li>Concurrent, intra-loop coordination for faster reaction</li>
+                        <li>AI and heuristics for smart, autonomous decisions</li>
+                        <li>Dynamic reconfiguration of service orchestration</li>
+                    </ul>
                 </div>
                 <div class="card">
-                    <h3><i class="fas fa-chart-line"></i> Performance Evaluation</h3>
-                    <p>Using stochastic bounds and modeling to analyze Quality of Service (QoS) and reliability in complex cloud systems.</p>
+                    <h3><i class="fas fa-chart-line"></i> Stochastic Modeling & QoS Guarantees</h3>
+                    <ul>
+                        <li>Performance evaluation with Markov chains and stochastic bounds</li>
+                        <li>Quality of Service (QoS) and reliability analysis</li>
+                        <li>Taming state-space explosion in complex networks</li>
+                        <li>Trade-offs between QoS and energy consumption</li>
+                    </ul>
                 </div>
             </div>
         </section>
@@ -407,33 +442,79 @@
             </div>
             
             <div class="positions-box" style="border-color: var(--secondary); background: linear-gradient(to right, #f3e8ff, #ffffff);">
-                <div class="positions-icon" style="color: var(--secondary); background: #ffffff;"><i class="fas fa-file-signature"></i></div>
+                <div class="positions-icon" style="color: var(--secondary); background: #ffffff;"><i class="fas fa-user-graduate"></i></div>
                 <div style="flex: 1;">
-                    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap;">
-                        <span class="tag" style="background: var(--secondary);">Important</span>
+                    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap: 8px;">
+                        <span class="tag" style="background: var(--secondary);">PhD Position</span>
                         <span style="font-size: 0.85rem; font-weight: 700; color: var(--text-muted);">
-                            <i class="far fa-calendar-alt"></i> Start: Feb 2026
+                            <i class="far fa-calendar-alt"></i> Start: October 1, 2026
                         </span>
                     </div>
                     
                     <h3 style="margin-bottom: 15px; color: var(--text-main); font-size: 1.2rem;">
-                        M2 Internship: Concurrent Autonomic Control for the Computing Continuum
+                        PhD: Concurrent Autonomic Control for the Cloud-Edge-IoT Continuum
                     </h3>
-                    
-                    <div style="margin-bottom: 20px; color: var(--text-main); font-size: 0.95rem; line-height: 1.8;">
+
+                    <p style="margin-bottom: 18px; color: var(--text-main); font-size: 0.95rem;">
+                        A PhD position offered jointly by <strong>Inria (AVALON team)</strong> and the
+                        <strong>De Vinci Research Center / ESILV</strong>, as part of the <strong>PEPR Cloud</strong>
+                        program, project <strong>TARANIS</strong>. The work will focus on designing, formalizing and
+                        evaluating a new <strong>MAPE-K</strong> coordination model enabling intra-loop concurrency, in
+                        order to improve the responsiveness of service orchestration systems.
+                    </p>
+
+                    <div style="margin-bottom: 14px; color: var(--text-main); font-size: 0.95rem; line-height: 1.8;">
                         <div style="margin-bottom: 5px;">
                             <i class="fas fa-map-marker-alt" style="color: var(--secondary); width: 20px;"></i> 
-                            <strong>Location:</strong> DVRC (Paris La Défense) & Inria/AVALON (ENS Lyon)
+                            <strong>Location:</strong> Paris campus, with occasional travel to Lyon
+                        </div>
+                        <div style="margin-bottom: 5px;">
+                            <i class="fas fa-hourglass-half" style="color: var(--secondary); width: 20px;"></i> 
+                            <strong>Duration:</strong> 3 years
                         </div>
                         <div style="margin-bottom: 5px;">
                             <i class="fas fa-chalkboard-teacher" style="color: var(--secondary); width: 20px;"></i> 
-                            <strong>Supervisors:</strong> Farah Aït-Salaht (DVRC) & Christian Perez (Inria)
+                            <strong>Supervisors:</strong> Farah Aït-Salaht (DVRC / ESILV) &amp; Christian Perez (Inria)
                         </div>
                     </div>
 
-                    <a href="https://github.com/ASFarah/Open_positions/blob/main/Proposition_de_Stage__MAPE_K.pdf" target="_blank" class="btn btn-primary" style="background: var(--secondary); box-shadow: 0 4px 15px rgba(124, 58, 237, 0.3);">
-                        <i class="fas fa-file-pdf"></i> Download Description (PDF)
-                    </a>
+                    <div style="background: #ffffff; border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 14px;">
+                        <div style="font-weight: 700; color: var(--secondary); font-size: 0.9rem; margin-bottom: 6px;">
+                            <i class="fas fa-id-badge"></i> Candidate Profile
+                        </div>
+                        <p style="color: var(--text-main); font-size: 0.9rem;">
+                            Engineering degree or Master 2 in Computer Science or a related field, with an interest in
+                            distributed systems, cloud/edge computing, containerized architectures, performance modeling,
+                            adaptive algorithms and decision-making AI.
+                        </p>
+                    </div>
+
+                    <div style="background: #ffffff; border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 20px;">
+                        <div style="font-weight: 700; color: var(--secondary); font-size: 0.9rem; margin-bottom: 6px;">
+                            <i class="fas fa-paper-plane"></i> Application
+                        </div>
+                        <p style="color: var(--text-main); font-size: 0.9rem;">
+                            Applications must be submitted online on the
+                            <a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10099" target="_blank" style="color: var(--primary); font-weight: 700;">Inria recruitment website</a>.
+                            In addition, please send a single PDF file including a detailed CV, a cover letter, academic
+                            transcripts and two recommendation letters by email to
+                            <a href="mailto:christian.perez@inria.fr" style="color: var(--primary); font-weight: 700;">christian.perez@inria.fr</a>
+                            and
+                            <a href="mailto:farah.ait_salaht@devinci.fr" style="color: var(--primary); font-weight: 700;">farah.ait_salaht@devinci.fr</a>.
+                        </p>
+                    </div>
+
+                    <div style="display: flex; flex-wrap: wrap; gap: 0;">
+                        <a href="https://github.com/ASFarah/Open_Positions/blob/main/PhD_Position_Inria_2026.pdf" target="_blank" class="btn btn-outline">
+                            <i class="fas fa-file-pdf"></i> Read the Full Description (PDF)
+                        </a>
+                        <a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10099" target="_blank" class="btn btn-primary" style="background: var(--secondary); box-shadow: 0 4px 15px rgba(124, 58, 237, 0.3);">
+                            <i class="fas fa-external-link-alt"></i> Apply on Inria
+                        </a>
+                        <a href="mailto:farah.ait_salaht@devinci.fr,christian.perez@inria.fr?subject=PhD%20application%20TARANIS%20-%20Concurrent%20Autonomic%20Control" class="btn btn-outline">
+                            <i class="fas fa-envelope"></i> Send Your Application
+                        </a>
+                    </div>
                 </div>
             </div>
 
